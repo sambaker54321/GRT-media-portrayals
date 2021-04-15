@@ -1,0 +1,98 @@
+The Argus (Brighton),theargus.co.uk
+Kent Online,kentonline.co.uk
+The Asian Today (Midlands),theasiantoday.com
+Somerset Live,somersetlive.co.uk
+Bath Chronicle,bathchronicle.co.uk
+Bedford Today,bedfordtoday.co.uk
+Berwick Advertiser,berwick-advertiser.co.uk
+Hull Live,hulldailymail.co.uk
+Birmingham Live,birminghammail.co.uk
+Bishops Stortford Independent,bishopsstortfordindependent.co.uk
+The Bolton News,thebolotonnews.co.uk
+Bournemouth Daily Echo,bournemouthecho.co.uk
+Bridlington Echo,bridlingtonecho.co.uk
+Bucks Free Press,bucksfreepress.co.uk
+Cambridge Independent,cambridgeindependent.co.uk
+Cambridgeshire Live,cambridge-news.co.uk
+Camden New Journal,camdennewjournal.com
+Chad (Mansfield and Ashfield),chad.co.uk
+Champion Newspapers (Merseyside),champnews.com
+Gloucestershire Live,gloucestershirelive.co.uk
+The Comet (Stevenage),thecomet.net
+Congleton Chronicle,chronicleseries.com
+Cornwall Live,cornwalllive.com
+Cotswold Journal,cotswoldjournal.co.uk
+Coventry Live,coventrytelegraph.net
+Cumberland and Westmorland Herald,cwherald.com
+The Cumberland News,newsandstar.co.uk
+Rotherham Advertiser,rotherhamadvertiser.co.uk
+Derbyshire Live,derbytelegraph.co.uk
+Kent Live,kentlive.news
+Worcester News,worcesternews.co.uk
+Dudley News,dudleynews.co.uk
+East Anglian Daily Times,eadt.co.uk
+Eastern Daily Press,edp24.co.uk
+Essex Live,essexlive.news
+Devon Live,devonlive.com
+Express and Star (Black Country),expressandstar.com
+Halesowen News,halesowennews.co.uk
+Ham and High,hamhigh.co.uk
+Hampshire Chronicle,hampshirechronicle.co.uk
+Hastings Observer,hastingsobserver.co.uk
+Helston Advertiser,helstonadvertiser.co.uk
+Hereford Times,herefordtimes.com
+The Herts Advertiser,hertsad.co.uk
+Yorkshire Live,examinerlive.co.uk
+Ilford Recorder,ilfordrecorder.co.uk
+Isle of Wight County Press,countypress.co.uk
+Kidderminster Shuttle,kidderminstershuttle.co.uk
+Lancashire Evening Post,lep.co.uk
+Lancashire Telegraph,lancashiretelegraph.co.uk
+The Leveller (Somerset),leveller.live
+Leicestershire Live,leicestermercury.co.uk
+Lincolnshire Live,lincolnshirelive.co.uk
+Liverpool Echo,liverpoolecho.co.uk
+Lynn News (Kings Lynn),lynnnews.co.uk
+Manchester Evening News,manchestereveningnews.co.uk
+Mid Sussex Times,midsussextimes.co.uk
+Midweek Herald (East Devon),midweekherald.co.uk
+Newcastle Evening Chronicle,chroniclelive.co.uk
+Northampton Chronicle and Echo,northamptonchron.co.uk
+The Northern Echo (North-East),thenorthernecho.co.uk
+The Northumberland Gazette,northumberlandgazette.co.uk
+Norwich Evening News,eveningnews24.co.uk
+North Norfolk News,northnorfolknews.co.uk
+Nottinghamshire Live,nottinghampost.com
+Oldham Evening Chronicle,oldham-chronicle.co.uk
+Oxford Mail,oxfordmail.co.uk
+Patterdale Today,patterdaletoday.co.uk
+Peterborough Telegraph,peterboroughtoday.co.uk
+Plymouth Live,plymouthherald.co.uk
+Bristol Live,bristolpost.co.uk
+The Press (York),yorkpress.co.uk
+The Reading Chronicle,readingchronicle.co.uk
+Ripon Gazette,ripongazette.co.uk
+Sailsbury Journal,salisburyjournal.co.uk
+Grimsby Live,grimsbytelegraph.co.uk
+Stoke on Trent Live,stokesentinel.co.uk
+Sheffield Star,thestar.co.uk
+Sheffield Telegraph,sheffieldtelegraph.co.uk
+Shropshire Star,shropshirestar.com
+Slough and South Bucks Observer,sloughobserver.co.uk
+Southern Daily Echo (Southampton),dailyecho.co.uk
+Southport Visiter,southportvisiter.co.uk
+Stroud News and Journal,stroudnewsandjournal.co.uk
+Stourbridge News,stourbridgenews.co.uk
+Sunderland Echo,sunderlandecho.com
+Surrey Live,getsurrey.co.uk
+Tavistock Times Gazette,tavistock-today.co.uk
+Teesdale Mercury,teesdalemercury.co.uk
+Teesside Live,gazettelive.co.uk
+Watford Observer,watfordobserver.co.uk
+Western Morning News,westernmorning.news
+Wigan Today,wigantoday.net
+Wirral Globe,wirralglobe.co.uk
+Wythenshawe World,wythenshawe-world.co.uk
+Yorkshire Post,yorkshirepost.co.uk
+Yorkshire Reporter,yorkshirereporter.co.uk
+Yorkshire Evening Post (Leeds),yorkshireeveningpost.co.uk

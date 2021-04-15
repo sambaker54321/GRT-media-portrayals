@@ -1,0 +1,11 @@
+/travel/
+/holiday/
+/holidays/
+/topic/
+/technology/
+/science/
+/world/
+/money/
+/business/
+/shop/
+/finance/

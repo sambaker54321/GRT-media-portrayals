@@ -1,0 +1,12 @@
+dailymail.co.uk
+theguardian.com
+independent.co.uk
+telegraph.co.uk
+mirror.co.uk
+thesun.co.uk
+thetimes.co.uk
+express.co.uk
+dailystar.co.uk
+standard.co.uk
+metro.co.uk
+bbc.co.uk/news
